@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_differential_geometry=self.webpackChunkwebsite_differential_geometry||[]).push([[896],{255:e=>{e.exports=JSON.parse('{"permalink":"/website-differential-geometry/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

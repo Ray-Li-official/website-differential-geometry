@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_differential_geometry=self.webpackChunkwebsite_differential_geometry||[]).push([[341],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

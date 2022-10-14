@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_differential_geometry=self.webpackChunkwebsite_differential_geometry||[]).push([[988],{4115:e=>{e.exports=JSON.parse('{"permalink":"/website-differential-geometry/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
